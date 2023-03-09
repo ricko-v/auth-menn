@@ -1,0 +1,23 @@
+.text-purple {
+    color: #4F46E5;
+}
+
+.bg-purple {
+    background-color: #4F46E5;
+}
+
+.bg-login {
+    background: linear-gradient(180deg, #3730A3 0%, #312E81 100%);
+}
+
+.bg-form-login {
+    background-color: #F3F4F6;
+}
+
+.bg-form-login:focus {
+    background-color: #F3F4F6;
+}
+
+a {
+    text-decoration: none !important;
+}
